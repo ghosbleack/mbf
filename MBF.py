@@ -317,7 +317,7 @@ def menu():
 	elif i == 1:
 		lanjutT()
 		idteman()
-	elif i == 3:
+	Password.tkt== 3:
 		keluar()
 bacaData()
 install_browser()
